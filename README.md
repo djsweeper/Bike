@@ -3,10 +3,12 @@
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
-TODO: The model give bad perfomance, They need to do some EDA or feature engineering.
+TODO: The model give bad perfomance, They need to do some EDA or feature engineering. In this experiment,It does not have negative value.
 
 ### What was the top ranked model that performed?
-TODO: HPO the model with hyperparameter tuning.
+TODO: HPO the model with hyperparameter tuning. WeightedEnsemble_L2 is the top rank model
+![project-report3](https://github.com/djsweeper/Bike/assets/95906150/4a6b19f5-8319-4be3-b1cd-f1cc29d84dd6)
+
 
 ## Exploratory data analysis and feature creation
 ### What did the exploratory analysis find and how did you add additional features?
