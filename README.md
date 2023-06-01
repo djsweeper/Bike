@@ -23,13 +23,18 @@ TODO: score decrease from 0.68 to 0.54.
 TODO: more visualization to find insight. try more feature engineering, may be it give more perfomance.
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
-[project-report (1).png]
+![project-report (2)](https://github.com/djsweeper/Bike/assets/95906150/f436b526-bec8-4908-a7a6-06ff272f954f)
+
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
 TODO: Replace the image below with your own.
 
-[project-report.png]
+![project-report (1)](https://github.com/djsweeper/Bike/assets/95906150/46df1dc3-2257-4f8e-b297-567da381f71b)
+
 
 ## Summary
 After did EDA and Feature Engineering the model give high perfomance that the original model and after did Hyperparameter Tuning they give highest perfomance than other models.
+
+## Problems
+In this project I face with problem about can not download or upload file and submission file,So I try manual download and upload the file.
